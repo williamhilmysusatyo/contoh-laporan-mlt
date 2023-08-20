@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+$$ anjing $$
+
 Pada bagian ini, Kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
 
 **Rubrik/Kriteria Tambahan (Opsional)**:
